@@ -8,6 +8,7 @@
 * php
 * html
 * css
+* javascript
 
 # SUPPORTED DISTRIBUTIONS
 |Distribution | Version Check | supported | status |
